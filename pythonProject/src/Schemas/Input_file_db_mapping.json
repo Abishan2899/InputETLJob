@@ -1,0 +1,14 @@
+{
+  "AuthorizedItemOutbound": {
+    "table": "authorized_item_outbound",
+    "unique_columns": [],
+    "columns": {
+      "OpsiteNumber": "opsite_number",
+      "CustomerNumber": "customer_number",
+      "ItemNumber": "item_number",
+      "PriceListNumber": "price_list_number",
+      "DeletedEnd": "deleted_end",
+      "CreatedTime": "created_time"
+    }
+  }
+}
