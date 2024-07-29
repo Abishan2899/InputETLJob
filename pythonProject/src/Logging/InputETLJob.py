@@ -5,7 +5,7 @@ import logging
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-
+command = "this is our new command"
 logger.info("hi this is ")
 
 data = [
