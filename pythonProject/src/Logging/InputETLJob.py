@@ -2,9 +2,11 @@ import pandas as pd
 import csv
 import logging 
 
-logger = logging.getLogger
+logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
+
+logger.info("hi this is ")
 
 data = [
     ["", "89898999", '56', "AA34", 'Y', 126333],
